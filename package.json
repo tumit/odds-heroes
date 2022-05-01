@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "server": "json-server --port 8080 --watch ./database.json"
+    "start": "json-server --port 8080 --watch ./database.json"
   },
   "dependencies": {
     "json-server": "^0.17.0"
