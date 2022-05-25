@@ -2,51 +2,39 @@
   "heroes": [
     {
       "id": 1001,
-      "name": "Ter"
+      "name": "Dr. Nice"
     },
     {
       "id": 1002,
-      "name": "Dome ซอร์ทโค้ดไหนกันเนี้ย"
+      "name": "Bombasto"
     },
     {
       "id": 1003,
-      "name": "Mod คลิกขวาโอ้โฮเฮะ"
+      "name": "Celeritas"
     },
     {
       "id": 1004,
-      "name": "Beam พัดลมคอมพ์ในตำนาน"
+      "name": "Magneta"
     },
     {
       "id": 1005,
-      "name": "JJ บรรทัดเอื้ออาทร"
+      "name": "RubberMan"
     },
     {
       "id": 1006,
-      "name": "Jedi ฟีเจอร์มหัศจรรย์"
+      "name": "Dynama"
     },
     {
       "id": 1007,
-      "name": "Pat เดดไลน์ในตำนาน"
+      "name": "Dr. IQ"
     },
     {
       "id": 1008,
-      "name": "Pan ซอร์ทโค้ดทะยานฟ้า"
+      "name": "Magma"
     },
     {
       "id": 1009,
-      "name": "Poom คลิกขวานะจะบอกให้"
-    },
-    {
-      "id": 1010,
-      "name": "Guy ฟีเจอร์ ตึ่ง ตึง ตึ๊ง ~"
-    },
-    {
-      "id": 1011,
-      "name": "Sor พัดลมคอมพ์ มรณะ"
-    },
-    {
-      "id": 1012,
-      "name": "Tumit บรรทัด ตึ่ง ตึง ตึ๊ง ~"
+      "name": "Tornado"
     }
   ]
 }
