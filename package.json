@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "json-server --port 8080 --watch ./database.json --routes routes.json"
+    "start": "json-server --port 8080 --watch ./database.json --routes routes.json",
+    "start-pea": "json-server --port 8080 --watch ./pea-heroes.json --routes routes.json"
   },
   "dependencies": {
     "json-server": "^0.17.0"
